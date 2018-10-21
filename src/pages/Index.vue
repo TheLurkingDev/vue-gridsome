@@ -7,5 +7,12 @@
 </template>
 
 <script>
-export default {}
+export default {
+  metaInfo: {
+    title: 'Clean and Simple Sites - Websites For the Rest of Us - Home',
+    meta: [
+      { name: 'description', content: 'This is the awesome Clean and Simple Sites website!' }
+    ]
+  }
+}
 </script>

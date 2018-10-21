@@ -6,5 +6,12 @@
 </template>
 
 <script>
-export default {}
+export default {
+  metaInfo: {
+    title: 'About Clean and Simple Sites',
+    meta: [
+      { name: 'description', content: 'Want to learn about Clean and Simple Sites? This is the page you want....' }
+    ]
+  }
+}
 </script>

@@ -16,3 +16,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+    p {
+      color: red;
+    }
+</style>

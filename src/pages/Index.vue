@@ -18,7 +18,9 @@ export default {
 </script>
 
 <style lang="scss">
+    $primary-color: blue;
+    
     p {
-      color: red;
+      color: $primary-color;
     }
 </style>
